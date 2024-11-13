@@ -1,8 +1,6 @@
 # AI & Robotic Labs 🤖
 
-Building a better world with AI & Robotics
-
----
+Building a better world with AI & Robotic
 
 ## Main Focus
 
@@ -13,16 +11,12 @@ Building a better world with AI & Robotics
 - AI Agents
 - LLMs
 - Privacy
-- Robotics
-
----
+- Robotic
 
 ## Projects
 
 - [Smart Factory Automation](https://github.com/AI-Robotic-Labs/iot-ai)
 - [Robot AI Movement](https://github.com/AI-Robotic-Labs/ai-robotic)
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI)
-- Self-Sovereign AI SDK - Coming in 2025
+- [Self-Sovereign AI SDK](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI-SDK) - Coming in 2025
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy) - Coming in 2025
-
----
