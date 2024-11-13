@@ -26,18 +26,3 @@ Building a better world with AI & Robotics
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy) - Coming in 2025
 
 ---
-
-## Blog Posts
-
-{% if site.posts %}
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
-</ul>
-{% else %}
-<p>No blog posts yet! Stay tuned for updates.</p>
-{% endif %}
