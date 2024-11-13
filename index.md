@@ -11,6 +11,7 @@ Building a better world with AI & Robotic
 - AI Agents
 - LLMs
 - Privacy
+- Robotic
 
 ## Projects
 
