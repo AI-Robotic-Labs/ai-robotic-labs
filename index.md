@@ -1,9 +1,21 @@
-#  AI & Robotic Labs
+## AI & Robotic Labs 🤖 
 
+Building a better world with AI & Robotic
 
-## About Me
-I am a developer with 5 years of experience in engineering.
+## Main Focus
+
+- SDKs
+- Demo projects
+- Neural networks
+- Deep Learning
+- AI Agents
+- LLMs
+- Privacy
 
 ## Projects
-- [Project 1](link)
-- [Project 2](link)
+
+- [Smart Factory Automation](https://github.com/AI-Robotic-Labs/iot-ai)
+- [Robot AI Movement](https://github.com/AI-Robotic-Labs/ai-robotic)
+- [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI)
+- [Self-Sovereign AI SDK](Self-Sovereign-AI-SDK) - In 2025
+- [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy) - In 2025
