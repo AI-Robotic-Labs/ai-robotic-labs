@@ -21,6 +21,10 @@ Building a better world with AI & Robotic
 - [Self-Sovereign AI SDK](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI-SDK) - Coming in 2025
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy) - Coming in 2025
 
+## Premium SDKs
+
+Coming soon
+
 ## Partner project
 
 Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
