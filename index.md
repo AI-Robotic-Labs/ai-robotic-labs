@@ -26,6 +26,10 @@ Building a better world with AI & Robotic
 
 Coming soon
 
+## Models
+
+Coming soon
+
 ## Partner project
 
 Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
@@ -33,6 +37,7 @@ Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
 ## External projects
 
 [Algenix: AI Agents custom](https://github.com/Algenix-Org)
+[Hugging Face](https://huggingface.co/AI-Robotic-Labs)
 
 
 Copyright © 2025 AI & Robotic Labs
