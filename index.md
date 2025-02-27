@@ -28,7 +28,7 @@ Coming soon
 
 ## Models
 
-Coming soon
+[Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI) - TBA
 
 ## Partner project
 
