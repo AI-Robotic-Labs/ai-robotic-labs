@@ -28,7 +28,8 @@ Coming soon
 
 ## Models
 
-[Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI) - TBA
+- [Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI) - TBA
+- [Nostr Copilot](https://github.com/AI-Robotic-Labs/nostr-copilot)
 
 ## Partner project
 
