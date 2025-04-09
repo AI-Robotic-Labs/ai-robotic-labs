@@ -37,9 +37,11 @@ Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
 
 ## External projects
 
-[Algenix: AI Agents custom](https://github.com/Algenix-Org)
+- [Algenix: AI Agents custom](https://github.com/Algenix-Org)
 
-[Hugging Face](https://huggingface.co/AI-Robotic-Labs)
+- [Quantum Labs AI/ML](https://github.com/quantum-labs-ai-ml)
+
+- [Hugging Face](https://huggingface.co/AI-Robotic-Labs)
 
 
 Copyright © 2025 AI & Robotic Labs
