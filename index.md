@@ -32,6 +32,11 @@ Coming soon
 - [Self-Sovereign AI](https://huggingface.co/AI-Robotic-Labs/Self-Soverign-AI)
 - [Nostr Copilot](https://github.com/AI-Robotic-Labs/nostr-copilot)
 
+## Non-Dev products
+
+- [AI Prompt](https://github.com/AI-Robotic-Labs/ai-prompt)
+- [AI Agent Travel](https://github.com/AI-Robotic-Labs/AI-Agent-Travel)
+
 ## Partner project
 
 Partner project and part of the [Agentic Alliance](https://agenticalliance.com/)
