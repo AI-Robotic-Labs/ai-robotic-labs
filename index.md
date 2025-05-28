@@ -22,6 +22,7 @@ Building a better world with AI & Robotic
 - [HTTP Privacy](https://github.com/AI-Robotic-Labs/http-privacy)
 - [Payment Automatic](https://github.com/AI-Robotic-Labs/payment-automatic)
 - [HTTP Privacy Nostr UTXO](https://github.com/AI-Robotic-Labs/http-nostr-utxo)
+- [AI Agent CLI](https://github.com/AI-Robotic-Labs/ai-agent-cli)
 
 ## Premium SDKs
 
