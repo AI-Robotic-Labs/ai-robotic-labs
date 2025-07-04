@@ -26,7 +26,7 @@ Building a better world with AI & Robotic
 
 ## Premium SDKs
 
-[Agent SDK](https://github.com/Algenix-Org/agent-sdk) - TBA
+[Agent SDK](https://github.com/Algenix-Org/agent-sdk)
 
 ## Models
 
